@@ -1,4 +1,4 @@
-# Övning 10 uppgift
+# Övning 9 uppgift
 
 Rita upp [Mandelbrotmängden](https://en.wikipedia.org/wiki/Mandelbrot_set)!
 
